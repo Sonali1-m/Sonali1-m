@@ -1,15 +1,14 @@
 <h1 align="center">Hey there 😊 I am Sonali Mohanta</h1>
-<h3 align="center">A passionate Software Engineer👩‍💻</h3>
+<h3 align="center">A passionate Electronics Engineer👩‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Sonali1-m/Sonali1-m/assets/74138558/9ab24ec9-5c08-455e-9600-3cc79f065ec0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali1-m&label=Profile%20views&color=0e75b6&style=flat" alt="sonali1-m" /> </p>
 
-- 🌱 I’m currently learning **React, Vue.JS, Node.JS**
+- 🌱 I’m currently learning **MATLAB, Verilog, VLSI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sonali-mohanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonali-mohanta" height="30" width="40" /></a>
-<a href="https://instagram.com/heysonaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heysonaaa_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sonalimnt1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sonalimnt1999" height="30" width="40" /></a>
 </p>
 
