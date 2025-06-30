@@ -1,4 +1,9 @@
 <h1 align="center">Hi there 😊 I'm Sonali Mohanta</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/GATE--EC-Qualified-green" alt="GATE Qualified Badge"/>
+  <img src="https://img.shields.io/badge/OJEE--MTech%20(Electronics)-AIR%207-blue" alt="OJEE AIR 7 Qualified Badge"/>
+
+</p>
 <h3 align="center">Electronics Engineer | VLSI & Digital Design Enthusiast | Tech Explorer</h3>
 
 <img align="right" alt="electronics" width="400" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif">
@@ -26,13 +31,25 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+   
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+ 
+
+
+
+
 </p>
+
+
+
 
 #### 🧪 Tools & EDA Platforms
 - **ModelSim** – RTL simulation & testbench
