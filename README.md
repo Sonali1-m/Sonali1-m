@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">Electronics Engineer | VLSI & Digital Design Enthusiast | Tech Explorer</h3>
 
-<img align="right" alt="electronics" width="400" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sonali1-m&label=Profile%20views&color=0e75b6&style=flat" alt="sonali1-m" />
